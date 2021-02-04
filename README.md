@@ -51,7 +51,7 @@ Com o ip configurado, foi feita a criação dos grupos e usuários da empresa fi
 
 ![Alt Text](https://i.ibb.co/mB8MW9Z/PRINT-3.png)
 
-Feita a criação dos usuários e grupos, foi criado uma sessão de pastas para cada setor da empresa com seus respectivos grupos e usuários, usando o comando tree temos as seguintes pastas: 
+Feita a criação dos usuários e grupos, foi criada uma sessão de pastas para cada setor da empresa com seus respectivos grupos e usuários, usando o comando tree temos as seguintes pastas: 
 
 ![Alt Text](https://i.ibb.co/5FBCCRZ/PRINT-4.png)
 
@@ -62,7 +62,7 @@ Após isso, cada pasta foi desginada aos seus respectivos grupos e usuários usa
 
 ## Serviço de SSH 
 
- Para instalar o serviço de SSH, precisamos passar o comando "apt install Openssh-server". Após isso, usamos o comando "systemctl status ssh" para ver se status do SSH e stá funcional, apresentado na imagem abaixo: 
+ Para instalar o serviço de SSH, precisamos passar o comando "apt install Openssh-server". Após isso, usamos o comando "systemctl status ssh" para ver se o status do SSH está funcional, apresentado na imagem abaixo: 
 
 ![Alt Text](https://i.ibb.co/WBBvm0p/PRINT-6-1.png)
 
