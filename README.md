@@ -35,7 +35,7 @@ Segue abaixo uma representação do projeto:
 ## Configuração do ip
 
 Para configurar um ip estático precisamos entrar no arquivo que contém as configurações das Interfaces de Rede, que fica em "/etc/network/interfaces"; após entrar no arquivo,
-devemos editá-lo com um editor de texto (de preferência o nano ou o vim). Após isso foi acrescentado as seguintes informações:
+devemos editá-lo com um editor de texto (de preferência o nano ou o vim). Após isso, foram acrescentadas as seguintes informações:
 
 * auto enp0s8
 * iface enp0s8 inet static
