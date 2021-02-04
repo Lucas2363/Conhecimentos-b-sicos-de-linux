@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este repositório tem como objetivo demonstrar os conhecimentos básicos adquiridos na escola SENAI de informática por meio de um projeto apresentado por eles, onde foi configurado do zero um sistema de uma empresa no linux com as seguintes características:
+Este repositório tem como objetivo demonstrar os conhecimentos básicos adquiridos na escola SENAI de informática por meio de um projeto apresentado por eles, onde foi configurado do zero um sistema de uma empresa no Linux com as seguintes características:
 
 * Ip estático para acesso a internet;
 * Criação de grupos e usuários da empresa fictícia;
