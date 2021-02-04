@@ -12,7 +12,7 @@ Este repositório tem como objetivo demonstrar os conhecimentos básciso adquiri
 
 Segue abaixo uma representação do projeto:
 
-![Alt Text](https://ibb.co/QPm9fsB)
+![Alt Text](https://i.ibb.co/T4hckzX/imagem-2021-02-04-112937.png)
 
 ## Comando utilizados
 
