@@ -74,8 +74,8 @@ Assim temos um sistema de SSH totalmento funcional sendo acessado apenas para o 
 
 ![Alt Text](https://i.ibb.co/8M1YqPp/PRINT-6-3.png)
  
-Autor: Lucas Silva Conrado
-Revisão: Sasha Sanches
+* Autor: Lucas Silva Conrado
+* Revisão: Sasha Sanches
 
 
 
